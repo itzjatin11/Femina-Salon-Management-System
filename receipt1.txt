@@ -1,0 +1,100 @@
+
+        Receipt:
+        
+        Name: Rohan
+        Address: Kansal
+        Phone Number: 9952345678
+        Membership Type: Null
+        
+        Hair Products:
+        Shampoo (x1) - $10.99
+        
+        Skin Products:
+        None
+        
+        Services:
+        Hair Colour - $150
+        
+        Total Cost: 160.99
+        
+        Receipt:
+        
+        Name: Jatin
+        Address: Blockhouse Bay
+        Phone Number: 0225154527
+        Membership Type: Premium
+        
+        Hair Products:
+        Shampoo (x1) - $10.99
+        
+        Skin Products:
+        None
+        
+        Services:
+        Hair Colour - $150
+        
+        Total Cost: 128.792
+        
+        Receipt:
+        
+        Name: Jatin
+        Address: Blockhouse Bay
+        Phone Number: 0225154527
+        Membership Type: Gold
+        
+        Hair Products:
+        Shampoo (x1) - $10.99
+        
+        Skin Products:
+        Face Wash (x1) - $7.99
+Face Cream (x1) - $18.99
+        
+        Services:
+        Haircut - $60
+Hairwash and Haircut - $100
+        
+        Total Cost: 168.27
+        
+        ------------------------------------------------    
+
+        Receipt:
+        
+        Name: Jatin
+        Address: Blockhouse Bay
+        Phone Number: 0225154527
+        Membership Type: Premium
+        
+        Hair Products:
+        Shampoo (x2) - $21.98
+Hair Serum (x1) - $15.99
+        
+        Skin Products:
+        Face Cream (x1) - $18.99
+        
+        Services:
+        Hair Colour - $150
+Haircut - $60
+        
+        Total Cost: 213.57
+        
+        ------------------------------------------------    
+
+        Receipt:
+        
+        Name: Riya
+        Address: Canal Rd.
+        Phone Number: 8767546789
+        Membership Type: 
+        
+        Hair Products:
+        Shampoo (x1) - $10.99
+        
+        Skin Products:
+        None
+        
+        Services:
+        Facial - $100
+Waxing - $110
+        
+        Total Cost: 220.99
+        

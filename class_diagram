@@ -1,0 +1,26 @@
+// Class Diagram
+digraph {
+	Service [label=Service]
+	BaseWindow [label=BaseWindow]
+	Billing [label=Billing]
+	Products [label=Products]
+	Membership [label="Membership (Abstract)"]
+	SilverMembership [label=SilverMembership]
+	GoldMembership [label=GoldMembership]
+	PremiumMembership [label=PremiumMembership]
+	NoMembership [label=NoMembership]
+	OrderWindow [label=OrderWindow]
+	MainWindow [label=MainWindow]
+	BaseWindow -> Billing
+	BaseWindow -> Products
+	Membership -> SilverMembership
+	Membership -> GoldMembership
+	Membership -> PremiumMembership
+	Membership -> NoMembership
+	OrderWindow -> Service [constraint=false]
+	OrderWindow -> Billing [constraint=false]
+	OrderWindow -> Products [constraint=false]
+	MainWindow -> Service [constraint=false]
+	MainWindow -> Billing [constraint=false]
+	MainWindow -> Products [constraint=false]
+}
